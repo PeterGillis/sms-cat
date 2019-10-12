@@ -1,5 +1,6 @@
-class Api::V1::Sms_messagesController < Api::V1::BaseController
+class Api::V1::SmsMessagesController < Api::V1::BaseController
   def index
-    @sms_messages = policy_scope(Sms_message)
+    @sms_message = policy_scope(SmsMessage)
+    #@sms_messages = Sms_message.all
   end
 end
