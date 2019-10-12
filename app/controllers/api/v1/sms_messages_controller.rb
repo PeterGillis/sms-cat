@@ -1,7 +1,7 @@
 class Api::V1::SmsMessagesController < Api::V1::BaseController
-  def index
 
-    #@sms_messages = SmsMessage.all
-    return ""
+  def create
+    @sms_messages = SmsMessage.new
+    render json: {}, status: :ok
   end
 end
