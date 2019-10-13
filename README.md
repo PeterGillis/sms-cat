@@ -7,7 +7,7 @@
 <h2>An SMS tool to hide your number!</h2>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/beartechnologies/image/upload/v1570958573/privacy_cat_mskwmq.png" alt="6789Cat image">
+  <img src="https://res.cloudinary.com/beartechnologies/image/upload/v1570961580/privacy_cat_ku4lwh.png" alt="6789Cat image">
 </p>
 
 <h3>Description</h3>
