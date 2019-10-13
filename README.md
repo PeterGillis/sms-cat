@@ -12,11 +12,13 @@
 
 <h3>Description</h3>
 
-<p>We identified a need for a user to avoid disclosing their phone number to unstrausted parties. For example when calling your Food Delivery Driver to help or the person you are picking up an ebay item from to help locate each other.
+<p>Privacy is a big issue these days and now more than ever users desire to keep their personal information hidden from those who may misuse it.
 
-We realised that we had identified a purpose for an app to make a phone call or send an SMS to another party without revealing the actual phone number of the user, but instead showing an alias number.
+We identified a need for a user to avoid disclosing their phone number to untrusted parties. For example when calling your Food Delivery Driver or the person you are picking up an eBay item from. From time to time you may have to use your phone but don't want the other party to retain your number after the transaction is complete.
 
-In Germany especially, there are many privacy issues in line with GDPR and many users who wish to keep their personal Data safe. We wanted to fulfill this need, we present to you 6789Cat!
+We realised that we had identified a purpose for an app to make a phone call or send an SMS to another party without revealing the actual phone number of the user, but instead showing an alias number which can be deleted when no-longer needed.
+
+Here in Germany, especially, there are many privacy issues in line with GDPR and many users who wish to keep their personal Data safe. We wanted to fulfill this need, we present to you 6789Cat!
 </p>
 
 
